@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif;
+  background: white;
+  max-width: 900px;
+  margin: 0 auto;
+}
+a, h1, h2 {
+  color: #377ba8;
+}
+
+h1, h2 {
+  font-family: 'Georgia', serif;
+  margin: 0; }
+
+h2 {
+  font-size: 1.2em;
+}
+
+#header{
+  background: lightsteelblue;
+}
